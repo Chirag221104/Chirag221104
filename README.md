@@ -45,5 +45,5 @@
 ---
 
 ## 📊 GitHub Stats  
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chirag221104&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag221104&layout=compact&theme=radical)  

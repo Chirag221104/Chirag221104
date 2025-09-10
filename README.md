@@ -32,18 +32,16 @@
 
 ## 🏆 Highlights & Projects  
 - **VisaRoute (2025):** Digital immigration assistance platform simplifying visa processes with automation & AI.  
-- **Baal Sanskar Shaala (2025):** Android app (Kotlin) for student & teacher management with tests, feedback, and admin features.  
 - **Forge Detection Website (2024):** AI-powered document forgery detection with Flask & deep learning.  
 - **Traffic Sign Recognition (ROSPL, 2024):** Enhanced CNN model for accurate traffic sign classification.  
 
 ---
 
 ## 🌐 Connect with Me  
-- 🐦 Twitter: [@chirag_gamecharcha](#)  
+- 🐦 X: [@Chirag_Malde22](#)  
 - 🎮 YouTube: [GamePe Charcha](https://www.youtube.com/@GamePeCharcha)  
 - 💼 LinkedIn: [Chirag Malde](#)  
-- 📧 Email: chiragmalde@gmail.com  
-
+- 📧 Email: chiragmalde166@apsit.edu.in
 ---
 
 ## 📊 GitHub Stats  
